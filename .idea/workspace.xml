@@ -5,43 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e7bac61-f2c1-485b-8be4-b96ec0dae3de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Kotlin_Philipp_LAckner/clase5-Arithmetic_operators.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ToTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase13-y-14_if-else_when.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase15-while_do-while.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase16_forEach-map-filter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase18-try-catch.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase20-Elvis-operator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase21-listas.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase22-Ordenar-listas.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase23-Maps.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase24-sets.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase26-functions-extendedFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase27-tiposDeParametrosEnLasFunciones.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase28-Lambdas-typeOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase29-high-order-functions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase30-let.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase31-With.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase32-Run.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase33-Apply.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase34-Also.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase35_proyecto-bola8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/desafio-clase35.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Kotlin_Philipp_LAckner/clase5-Arithmetic_operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Philipp_LAckner/clase5-Arithmetic_operators.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,12 +73,13 @@
     "Kotlin.Clase33_ApplyKt.executor": "Run",
     "Kotlin.Clase34_AlsoKt.executor": "Run",
     "Kotlin.Clase35_proyecto_bola8Kt.executor": "Run",
+    "Kotlin.Clase5_Arithmetic_operatorsKt.executor": "Run",
     "Kotlin.Desafio_clase35Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.ToTestKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/miult/IdeaProjects/untitled/src/main/kotlin/Main.kt",
     "project.structure.last.edited": "Problems",
@@ -127,7 +93,12 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Clase16_forEach_map_filterKt">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\miult\IdeaProjects\untitled\src\main\kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Clase5_Arithmetic_operatorsKt">
     <configuration name="Clase16_forEach_map_filterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Clase16_forEach_map_filterKt" />
       <module name="untitled.main" />
@@ -135,15 +106,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase34_AlsoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Clase34_AlsoKt" />
+    <configuration name="Clase35_proyecto_bola8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Clase35_proyecto_bola8Kt" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase35_proyecto_bola8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Clase35_proyecto_bola8Kt" />
+    <configuration name="Clase5_Arithmetic_operatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase5_Arithmetic_operatorsKt" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Clase5_Arithmetic_operatorsKt" />
         <item itemvalue="Kotlin.Clase16_forEach_map_filterKt" />
         <item itemvalue="Kotlin.ToTestKt" />
         <item itemvalue="Kotlin.Desafio_clase35Kt" />
         <item itemvalue="Kotlin.Clase35_proyecto_bola8Kt" />
-        <item itemvalue="Kotlin.Clase34_AlsoKt" />
       </list>
     </recent_temporary>
   </component>
@@ -240,15 +211,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/main/Kotlin_Philipp_LAckner/clase5-Arithmetic_operators.kt</url>
-          <line>2</line>
-          <properties>
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
