@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e7bac61-f2c1-485b-8be4-b96ec0dae3de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Kotlin_Philipp_LAckner/clase5-Arithmetic_operators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ToTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase13-y-14_if-else_when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase15-while_do-while.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase16_forEach-map-filter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase18-try-catch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase20-Elvis-operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase21-listas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase22-Ordenar-listas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase23-Maps.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase24-sets.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase26-functions-extendedFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase27-tiposDeParametrosEnLasFunciones.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase28-Lambdas-typeOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase29-high-order-functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase30-let.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase31-With.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase32-Run.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase33-Apply.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase34-Also.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clase35_proyecto-bola8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/desafio-clase35.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2iicpR62MKKzoo08sGxAFER1C3X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build untitled.executor": "Run",
+    "Gradle.Tests in 'untitled'.executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "Kotlin script (Beta).build.gradle.kts.executor": "Run",
+    "Kotlin.Calse32_RunKt.executor": "Run",
+    "Kotlin.Clase13Kt.executor": "Coverage",
+    "Kotlin.Clase15Kt.executor": "Coverage",
+    "Kotlin.Clase16Kt.executor": "Coverage",
+    "Kotlin.Clase16_forEach_map_filterKt.executor": "Run",
+    "Kotlin.Clase18_try_catchKt.executor": "Run",
+    "Kotlin.Clase20_Elvis_operatorKt.executor": "Run",
+    "Kotlin.Clase21_listasKt.executor": "Run",
+    "Kotlin.Clase22_Ordenar_listasKt.executor": "Run",
+    "Kotlin.Clase23_MapsKt.executor": "Run",
+    "Kotlin.Clase24_setsKt.executor": "Run",
+    "Kotlin.Clase26_functions_extendedFunctionsKt.executor": "Run",
+    "Kotlin.Clase27_tiposDeParametrosEnLasFuncionesKt.executor": "Run",
+    "Kotlin.Clase28_LambdasKt.executor": "Run",
+    "Kotlin.Clase29_high_order_functionsKt.executor": "Run",
+    "Kotlin.Clase30_letKt.executor": "Run",
+    "Kotlin.Clase31_WithKt.executor": "Run",
+    "Kotlin.Clase33_ApplyKt.executor": "Run",
+    "Kotlin.Clase34_AlsoKt.executor": "Run",
+    "Kotlin.Clase35_proyecto_bola8Kt.executor": "Run",
+    "Kotlin.Desafio_clase35Kt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.ToTestKt.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/miult/IdeaProjects/untitled/src/main/kotlin/Main.kt",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  },
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "C:\\Users\\miult\\.gradle"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Clase16_forEach_map_filterKt">
+    <configuration name="Clase16_forEach_map_filterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Clase16_forEach_map_filterKt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clase34_AlsoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Clase34_AlsoKt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clase35_proyecto_bola8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Clase35_proyecto_bola8Kt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio_clase35Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Desafio_clase35Kt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToTestKt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Clase16_forEach_map_filterKt" />
+        <item itemvalue="Kotlin.ToTestKt" />
+        <item itemvalue="Kotlin.Desafio_clase35Kt" />
+        <item itemvalue="Kotlin.Clase35_proyecto_bola8Kt" />
+        <item itemvalue="Kotlin.Clase34_AlsoKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7bac61-f2c1-485b-8be4-b96ec0dae3de" name="Changes" comment="" />
+      <created>1719977031031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719977031031</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
+          <line>4</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/clase13-y-14_if-else_when.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/clase16.kt</url>
+          <line>2</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/clase18-try-catch.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/clase28-Lambdas-typeOf.kt</url>
+          <line>17</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/clase28-Lambdas-typeOf.kt</url>
+          <line>23</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/Kotlin_Philipp_LAckner/clase5-Arithmetic_operators.kt</url>
+          <line>2</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$Clase15Kt.ic" NAME="Clase15Kt Coverage Results" MODIFIED="1720235148664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/untitled$Clase16Kt.ic" NAME="Clase16Kt Coverage Results" MODIFIED="1720235991196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/untitled$Clase13Kt.ic" NAME="Clase13Kt Coverage Results" MODIFIED="1720233098123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/untitled$MainKt.ic" NAME="MainKt Coverage Results" MODIFIED="1720057757969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
