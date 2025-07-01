@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e7bac61-f2c1-485b-8be4-b96ec0dae3de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Philipp_Lackner/clase5-Arithmetic_operators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Philipp_Lackner/clase6-Decimal_numbers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Kotlin_Philipp_LAckner/clase5-Arithmetic_operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Philipp_LAckner/clase5-Arithmetic_operators.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Kotlin_Philipp_LAckner/clase5-Arithmetic_operators.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Script" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -74,6 +76,7 @@
     "Kotlin.Clase34_AlsoKt.executor": "Run",
     "Kotlin.Clase35_proyecto_bola8Kt.executor": "Run",
     "Kotlin.Clase5_Arithmetic_operatorsKt.executor": "Run",
+    "Kotlin.Clase6_Decimal_numbersKt.executor": "Run",
     "Kotlin.Desafio_clase35Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.ToTestKt.executor": "Debug",
@@ -81,6 +84,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/miult/IdeaProjects/untitled",
     "onboarding.tips.debug.path": "C:/Users/miult/IdeaProjects/untitled/src/main/kotlin/Main.kt",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
@@ -98,7 +102,7 @@
       <recent name="C:\Users\miult\IdeaProjects\untitled\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Clase5_Arithmetic_operatorsKt">
+  <component name="RunManager" selected="Kotlin.Clase6_Decimal_numbersKt">
     <configuration name="Clase16_forEach_map_filterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Clase16_forEach_map_filterKt" />
       <module name="untitled.main" />
@@ -106,15 +110,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase35_proyecto_bola8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Clase35_proyecto_bola8Kt" />
+    <configuration name="Clase5_Arithmetic_operatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase5_Arithmetic_operatorsKt" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase5_Arithmetic_operatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clase5_Arithmetic_operatorsKt" />
+    <configuration name="Clase6_Decimal_numbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kotlin_Philipp_Lackner.Clase6_Decimal_numbersKt" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Clase6_Decimal_numbersKt" />
         <item itemvalue="Kotlin.Clase5_Arithmetic_operatorsKt" />
         <item itemvalue="Kotlin.Clase16_forEach_map_filterKt" />
         <item itemvalue="Kotlin.ToTestKt" />
         <item itemvalue="Kotlin.Desafio_clase35Kt" />
-        <item itemvalue="Kotlin.Clase35_proyecto_bola8Kt" />
       </list>
     </recent_temporary>
   </component>
